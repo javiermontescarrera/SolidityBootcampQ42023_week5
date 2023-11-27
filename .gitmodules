@@ -1,0 +1,9 @@
+[submodule "SolidityBootcampQ42023_week5_blockchain"]
+	path = SolidityBootcampQ42023_week5_blockchain
+	url = https://github.com/javiermontescarrera/SolidityBootcampQ42023_week5_blockchain.git
+[submodule "SolidityBootcampQ42023_week5_backend"]
+	path = SolidityBootcampQ42023_week5_backend
+	url = https://github.com/javiermontescarrera/SolidityBootcampQ42023_week5_backend.git
+[submodule "SolidityBootcampQ42023_week5_frontend"]
+	path = SolidityBootcampQ42023_week5_frontend
+	url = https://github.com/javiermontescarrera/SolidityBootcampQ42023_week5_frontend.git
